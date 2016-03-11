@@ -1,4 +1,4 @@
-#!/Users/Andrew/Sites/agema/venv/bin/python2.7
+#!/Users/jholl/Code/pelican-starter/venv/bin/python
 
 # $Id: rst2html.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>

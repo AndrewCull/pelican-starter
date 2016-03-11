@@ -1,4 +1,4 @@
-#!/Users/Andrew/Sites/agema/venv/bin/python2.7
+#!/Users/jholl/Code/pelican-starter/venv/bin/python
 
 # $Id: rst2xetex.py 7038 2011-05-19 09:12:02Z milde $
 # Author: Guenter Milde
